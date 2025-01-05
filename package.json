@@ -62,7 +62,8 @@
     "path": "latest",
     "gray-matter": "latest",
     "remark": "latest",
-    "remark-html": "latest"
+    "remark-html": "latest",
+    "@vercel/analytics": "latest"
   },
   "devDependencies": {
     "@types/node": "^22",
